@@ -1,0 +1,76 @@
+{
+    "What is your return policy?": 
+        "You can return any unopened items within 30 days for a full refund. Items must be in their original condition with all packaging intact. Please include your order number with the return.",
+    
+    "How do I return an item?":
+        "To return an item, please visit our Returns Portal at example.com/returns, enter your order number and email, then follow the instructions. You'll receive a prepaid shipping label to print.",
+    
+    "Can I exchange an item instead of returning it?":
+        "Yes, you can exchange items within 30 days of purchase. Start a return through our Returns Portal and select 'Exchange' instead of 'Refund'. You'll be able to select the replacement item.",
+    
+    "How long do refunds take to process?":
+        "Refunds typically take 3-5 business days to appear in your account after we receive your return. The exact timing depends on your payment method and financial institution.",
+    
+    "How do I track my order?": 
+        "You can track your order by clicking the tracking link in your confirmation email or by logging into your account and viewing your order history.",
+    
+    "My tracking information hasn't updated. What should I do?":
+        "Tracking information can sometimes take 24-48 hours to update. If it hasn't updated after 2 days, please contact our support team with your order number.",
+    
+    "Do you ship internationally?": 
+        "Yes, we ship to over 100 countries worldwide. Shipping costs and delivery times vary by location. You can see estimated costs by entering your address during checkout.",
+    
+    "Which countries do you not ship to?":
+        "Due to shipping restrictions, we cannot ship to certain countries including North Korea, Iran, Syria, and Cuba. For a complete list, please visit our Shipping Policy page.",
+    
+    "What payment methods do you accept?": 
+        "We accept Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, Google Pay, and Shop Pay. All transactions are securely processed and encrypted.",
+    
+    "Do you offer financing options?":
+        "Yes, we offer financing through Affirm and Klarna. You can select these payment options during checkout to see if you qualify and review the terms.",
+    
+    "How long does shipping take?": 
+        "Domestic orders typically arrive within 3-5 business days. International shipping can take 7-14 business days. Expedited shipping options are available at checkout.",
+    
+    "Do you offer expedited shipping?":
+        "Yes, we offer Next Day and 2-Day shipping options for most domestic addresses. These options are available at checkout for an additional fee.",
+    
+    "Do you offer free shipping?":
+        "We offer free standard shipping on all domestic orders over $50. International orders and orders below $50 will have shipping costs calculated at checkout.",
+    
+    "How do I check my order status?":
+        "You can check your order status by logging into your account and viewing your order history, or by clicking the 'Check Status' link in your order confirmation email.",
+    
+    "Can I modify or cancel my order?":
+        "You can modify or cancel your order within 1 hour of placing it by contacting our customer service team. After that, we begin processing and cannot guarantee changes.",
+    
+    "Do you offer gift wrapping?":
+        "Yes, we offer gift wrapping for $5 per item. You can select this option during checkout and add a personalized message to be included with your gift.",
+    
+    "How do I redeem a coupon code?":
+        "You can redeem a coupon code by entering it in the 'Promo Code' field during checkout, before finalizing your payment. Only one coupon code can be used per order.",
+    
+    "Do you have a loyalty program?":
+        "Yes, our Rewards Program gives you points for every purchase, which can be redeemed for discounts. Sign up for a free account to automatically join the program.",
+    
+    "How do I contact customer service?":
+        "You can contact our customer service team by email at support@example.com, by phone at 1-800-555-1234, or through live chat on our website. We're available 7 days a week from 9am to 9pm EST.",
+    
+    "Are your products eco-friendly?":
+        "Many of our products meet eco-friendly standards. Look for the 'Eco-Friendly' badge on product pages. We're committed to increasing our sustainable product offerings each year.",
+    
+    "What is your privacy policy?":
+        "Our privacy policy outlines how we collect, use, and protect your personal information. We never sell your data to third parties. You can read the full policy at example.com/privacy.",
+    
+    "Do you have physical stores?":
+        "Yes, we have 12 retail locations across the United States. You can find the nearest store using our Store Locator tool on our website.",
+    
+    "Do you offer student discounts?":
+        "Yes, we offer a 10% student discount with verified student ID through SheerID. Visit our Student Discount page to verify your status and receive your discount code.",
+    
+    "Do you sell gift cards?":
+        "Yes, we offer digital and physical gift cards ranging from $25 to $500. Digital gift cards are delivered by email, usually within minutes of purchase.",
+    
+    "How do I check my gift card balance?":
+        "You can check your gift card balance by visiting example.com/gift-card-balance and entering your gift card number and PIN."
+}
